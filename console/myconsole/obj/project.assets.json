@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\github_repositories\\StudyC-\\console\\StudyC-.csproj",
+      "projectUniqueName": "D:\\github_repositories\\StudyC-\\console\\myconsole\\StudyC-.csproj",
       "projectName": "StudyC-",
-      "projectPath": "D:\\github_repositories\\StudyC-\\console\\StudyC-.csproj",
+      "projectPath": "D:\\github_repositories\\StudyC-\\console\\myconsole\\StudyC-.csproj",
       "packagesPath": "C:\\Users\\cmily\\.nuget\\packages\\",
-      "outputPath": "D:\\github_repositories\\StudyC-\\console\\obj\\",
+      "outputPath": "D:\\github_repositories\\StudyC-\\console\\myconsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
